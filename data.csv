@@ -1,4 +1,4 @@
-Date,Temp,Max.Temp,Min.Temp,RH,Max.RH,Min.RH,WindSpeed,WindDir,SolarRad,Evapor,Rainfall,DewPoint,Station,District
+date,temperature,max_temperature,min_temperature,rh,max_rh,min_rh,wind_speed,wind_direction,solar_radiation,evaporation,rainfall,dewpoint,station,district
 7/1/2019,25.08,30.03,21.81,82.83,96.24,62.45,3.7,0,1018,40.5,12.6,22.41,ST01,Kakching
 7/2/2019,26.44,31.04,23.17,75.63,88.78,58.9,4.1,0,959,30.6,0.2,22.38,ST01,Kakching
 7/3/2019,26.58,33.87,22.75,76.49,90.99,50.55,2.65,0,1030,9.7,0,22.58,ST01,Kakching
